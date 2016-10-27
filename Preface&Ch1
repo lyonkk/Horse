@@ -15,7 +15,7 @@
 <hr />
 <hr />
 <h1>Horse Training </h1>
-  <h2 class"center-this"> by </h2>
+  <h2 class= "center-this"> by </h2>
 <h1>  Modern Methods </h1>
 <h1>BY Allan Melvill Pope,</h1>
 <h1>First Lieutenant of Cavalry, U. S. Army.</h1>
@@ -48,7 +48,7 @@
 <hr />
 <hr />
 
-<h1 class"center-ok"> FOREWORD. </h1>
+<h1 class= "center"> FOREWORD. </h1>
 
 <p>The object of this book is to arrange in the most convenient, clear and concise form the modern system of horse-training, in so. far as it is applicable to the train-ing of horses in the mounted service of the United States-No attempt has been made in any case to improve upon methods already deemed correct by the best horse-men ; and as such methods can be found dealing with all points of training, it follows that the subject matter in this book is not original. Where the best was to be found, there it has been sought, and where the authors of previous works have expressed their ideas in language considered the most concise and clear, their words have been copied verbatim, with due acknowledgement to the authors.</p>
 <p>I am indebted to the following for methods, theories, translation of technical terms, and improvised commands herein contained :</p>
@@ -99,7 +99,7 @@ As hands are a most important element in Part II., it is not surprising that men
 
 <p>is preferable to the use of a single curb immediately suc-ceeding the work with the snaffle alone.</p>
 <p> To some it may seem that confusion exists as to ar-rangement of the facts. The scheme of arrangement is as follows: </p>
-<p class"indent"> A man, in training a horse, can begin work on the horse with what he finds in the beginning of this book, and as the horse progresses he need only progress in his reading to find new exercises. Certain definitions and explanations are requisite to a proper understanding of an exercise. These are necessarily interpolated.</p>
+<p class="indent"> A man, in training a horse, can begin work on the horse with what he finds in the beginning of this book, and as the horse progresses he need only progress in his reading to find new exercises. Certain definitions and explanations are requisite to a proper understanding of an exercise. These are necessarily interpolated.</p>
 <p>If the reader will consider the difficulties in setting forth such facts in a logical sequence, he will perhaps be more lenient in his criticisms of this book, although
 criticism is expected and sought. </p>
 <p><em>A. M. P. Manlius, N. Y., August, icjti.</em></p>
